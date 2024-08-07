@@ -1,0 +1,6 @@
+{
+  "name": "@mutefish/bin2ts",
+  "version": "0.0.1",
+  "exports": "./mod.ts",
+  "tasks": {}
+}

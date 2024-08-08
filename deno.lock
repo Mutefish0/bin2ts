@@ -3,6 +3,7 @@
   "packages": {
     "specifiers": {
       "jsr:@std/cli": "jsr:@std/cli@1.0.3",
+      "jsr:@std/cli@1": "jsr:@std/cli@1.0.3",
       "jsr:@std/encoding@1": "jsr:@std/encoding@1.0.1"
     },
     "jsr": {
@@ -14,10 +15,5 @@
       }
     }
   },
-  "remote": {},
-  "workspace": {
-    "dependencies": [
-      "jsr:@std/assert@1"
-    ]
-  }
+  "remote": {}
 }
